@@ -1,0 +1,601 @@
+b0f03a7	2021-05-04	5/4 data update
+00c95eb	2021-05-03	5/3 data update
+c7925e9	2021-05-03	Update README.md
+1b37ca2	2021-05-02	5/2 data update
+0d4021a	2021-05-01	5/1 data update
+a5872a1	2021-04-30	4/30 data update
+b442402	2021-04-29	4/29 data update
+3438934	2021-04-28	4/28 data update
+b22a252	2021-04-27	Update Readme.md
+c75023d	2021-04-27	Update README.md
+449d296	2021-04-27	4/27 data update
+b37f917	2021-04-26	4/26 data update
+aa369d3	2021-04-25	4/25 data update
+0178c7b	2021-04-24	4/24 data update
+e8349ba	2021-04-23	4/23 data update
+559b0a7	2021-04-23	4/23 data update
+a4118c4	2021-04-22	4/22 data update
+ee6cd95	2021-04-21	4/21 data update
+4e3e703	2021-04-20	4/20 data upload
+657a641	2021-04-19	4/19 data update
+75a7d4d	2021-04-18	4/18 data update
+54e7324	2021-04-17	4/17 data update
+efb91d9	2021-04-16	4/16 data update
+4eebc39	2021-04-15	4/15 data update
+6b5aab8	2021-04-14	4/14 data update
+a055439	2021-04-13	4/13 data update
+c7a48d3	2021-04-12	4/12 data update
+df6c2a9	2021-04-11	4/11 data upload
+e3a39db	2021-04-10	4/10 data upload
+8996d47	2021-04-09	4/9 data upload
+a958930	2021-04-08	4/8 data upload
+bbd495d	2021-04-07	4/7 data upload
+9c22a3c	2021-04-06	4/6 data upload
+81b8825	2021-04-05	4/5 data upload
+c4e603a	2021-04-04	4/4 data upload
+70b3097	2021-04-03	4/3 data upload
+0ece09a	2021-04-02	4/2 data upload
+c12a890	2021-04-01	4/1 data upload
+59c80c7	2021-03-31	3/31 data upload
+74af146	2021-03-30	3/30 data upload
+703154a	2021-03-30	Update Readme.md
+348000e	2021-03-30	Update README.md
+abdd17d	2021-03-29	3/29 data upload
+aa58d8e	2021-03-29	3/19 data upload
+3aeb74a	2021-03-28	3/28 data upload
+a0cbdc3	2021-03-27	Data upload 3/27
+67451e6	2021-03-26	Data upload 3/26
+482b5e4	2021-03-25	Data upload 3/25
+a1dcaf4	2021-03-24	Update README.md
+88fed81	2021-03-24	Data upload 3/24
+333f451	2021-03-20	3/20 data upload
+2832625	2021-03-19	3/19 data upload
+0415d72	2021-03-18	3/18 data upload
+4992b75	2021-03-17	3/17 data upload
+c0ba52f	2021-03-16	3/16 data upload
+6446a4e	2021-03-15	3/15 data upload
+9f96185	2021-03-14	3/14 data upload
+55ed189	2021-03-13	3/13 data upload
+55bad8f	2021-03-12	Update Readme.md
+3381346	2021-03-12	Update Readme.md
+9dd81d9	2021-03-12	3/12 data upload
+80f5d3f	2021-03-11	3/11 data upload
+bc247f1	2021-03-10	3/10 data upload
+45fef35	2021-03-09	Update Readme.md
+0e3e00f	2021-03-09	3/9 data upload
+074fec3	2021-03-08	3/8 data upload
+592883d	2021-03-07	3/7 data upload
+bb88ef3	2021-03-06	3/6 data upload
+3c44430	2021-03-05	3/5 data upload
+6bf118b	2021-03-04	3/4 data upload
+1c126d6	2021-03-03	Update README.md
+018c12a	2021-03-03	Update Readme.md
+805bafe	2021-03-03	Update Readme.md
+05c1060	2021-03-03	Update Readme.md
+7e0b80e	2021-03-03	Update README.md
+1796ae1	2021-03-03	3/3 data upload
+c3f1785	2021-03-02	3/2 data upload
+e605bac	2021-03-02	Update README.md
+e8d6235	2021-03-02	Update README.md
+97bdb3f	2021-03-01	3/1 data upload
+0fd406f	2021-02-28	2/28 data upload
+f7b8cfb	2021-02-27	2/27 data upload
+7ec8675	2021-02-26	2/26 data upload
+df8008d	2021-02-25	2/25 data upload
+da83684	2021-02-24	2/24 data upload
+5ba5b9c	2021-02-23	2/23 data upload
+59443f0	2021-02-22	2/22 data upload
+435691d	2021-02-21	2/21 data upload
+595a2c4	2021-02-20	2/20 data upload
+3dbe141	2021-02-19	2/19 data upload
+94f70a0	2021-02-18	Delete testing-turnaround.csv
+7baa785	2021-02-18	Delete testing-by-age.csv
+9de78eb	2021-02-18	Delete summary.csv
+38f1b0c	2021-02-18	Delete probable-confirmed-by-sex.csv
+2048091	2021-02-18	Delete probable-confirmed-by-race.csv
+fddb084	2021-02-18	Delete probable-confirmed-by-location.csv
+5658da5	2021-02-18	Delete probable-confirmed-by-boro.csv
+079a8b8	2021-02-18	Delete probable-confirmed-by-age.csv
+8aa9396	2021-02-18	Delete pp-by-modzcta.csv
+d74785e	2021-02-18	Delete now-tests.csv
+db00bf6	2021-02-18	Delete percentpositive-by-modzcta.csv
+0631be3	2021-02-18	Delete now-testing-by-age.csv
+b13abe7	2021-02-18	Delete now-summary.csv
+1a1769e	2021-02-18	Delete now-hosp-by-day.csv
+e6713ac	2021-02-18	Delete now-deaths-by-day.csv
+877753e	2021-02-18	Delete now-data-by-day.csv
+356a1b2	2021-02-18	Delete now-covid-like-illness.csv
+4ce49b5	2021-02-18	Delete now-cases-by-day.csv
+6904031	2021-02-18	Delete last7days-by-modzcta.csv
+c50520d	2021-02-18	Delete hosp-by-day.csv
+8620e3c	2021-02-18	Delete group-hosp-by-boro.csv
+c16fc83	2021-02-18	Delete group-death-by-boro.csv
+8a1201e	2021-02-18	Delete group-data-by-boro.csv
+f1a377f	2021-02-18	Delete group-cases-by-boro.csv
+2c56b4e	2021-02-18	Delete testrate-by-modzcta.csv
+35ebb24	2021-02-18	Delete tests.csv
+69c753c	2021-02-18	Delete deaths-by-underlying-conditions.csv
+a37acf3	2021-02-18	Delete deaths-by-race-age.csv
+8ebc989	2021-02-18	Delete deaths-by-day.csv
+c4a8f50	2021-02-18	Delete deaths-by-boro-age.csv
+075f614	2021-02-18	Delete data-by-modzcta.csv
+a074fe1	2021-02-18	Delete data-by-day.csv
+df94540	2021-02-18	Delete covid-like-illness.csv
+420da96	2021-02-18	Delete covid-like-illness-by-boro.csv
+f1f7e75	2021-02-18	Delete caserate-by-modzcta.csv
+7b56cda	2021-02-18	Delete cases-by-day.csv
+0cad4c8	2021-02-18	Delete by-sex.csv
+567812c	2021-02-18	Delete by-race.csv
+d9bb664	2021-02-18	Delete by-poverty.csv
+6e725ab	2021-02-18	Delete by-boro.csv
+efe1812	2021-02-18	Delete by-age.csv
+8047e08	2021-02-18	2/18 data upload
+f7e64eb	2021-02-18	2/18 data upload
+9112884	2021-02-17	2/17 data upload
+0827b8c	2021-02-16	2/16 data upload
+74a7957	2021-02-15	2/15 data upload
+632826b	2021-02-14	Data upload 2/14
+5e5ebe7	2021-02-13	2/13 data upload
+edc7cb7	2021-02-12	Data upload 2/12
+e3cbc64	2021-02-11	2/11 data upload
+959185b	2021-02-10	2/10 data upload
+37036a9	2021-02-09	2/9 data upload
+373294f	2021-02-08	2/8 data upload
+b5a13f8	2021-02-07	2/7 data upload
+3425975	2021-02-06	2/6 data upload
+20c256e	2021-02-05	2/5 data update
+1a22328	2021-02-04	2/4 data update
+fc5722a	2021-02-03	2/3 data update
+7dd57ce	2021-02-02	2/1 data update
+869bce5	2021-02-01	2/1 data update
+08051fa	2021-01-31	1/31 data update
+6a8fded	2021-01-30	1/30 data update
+cc2eab5	2021-01-29	1/29 data update
+dba3b10	2021-01-28	1/28 data update
+5c380a6	2021-01-27	1/27 data update
+dd92340	2021-01-26	1/26 data update
+0f367c0	2021-01-25	1/25 data update
+33971ce	2021-01-24	1/24 data update
+998cd47	2021-01-23	1/23 data update
+9d5a9c2	2021-01-22	1/22 data update
+523e50e	2021-01-21	1/21 data update
+67f5d58	2021-01-20	1/20 data update
+1c3c79a	2021-01-19	1/19 data update
+7940bff	2021-01-18	1/18 data update
+6fed4af	2021-01-17	1/17 data update
+92768c7	2021-01-16	Data upload 1/16
+0b86e9c	2021-01-15	1/15 data upload
+3fcea7d	2021-01-14	1/14 data upload
+955f055	2021-01-13	1/13 data upload
+66f1182	2021-01-12	1/12 data upload
+bd4f698	2021-01-11	Data upload 1/11
+83b4395	2021-01-10	1/10 data upload
+dd113f9	2021-01-09	1/9 data upload
+fb8fc92	2021-01-08	1/8 data upload
+a7d50ec	2021-01-07	1/7 data upload
+aad17f2	2021-01-06	1/6 data upload
+9b8f6e8	2021-01-05	1/5 data upload
+7e8544e	2021-01-04	1/4 data upload
+22b5db0	2021-01-03	1/3 data upload
+49ae87a	2021-01-02	1/2 data upload
+06b7d29	2021-01-01	1/1 data upload
+9133783	2020-12-31	12/31 data upload
+86412bc	2020-12-30	12/30 data upload
+f75e741	2020-12-29	12/29 data upload
+229e441	2020-12-28	12/28 data upload
+ed57186	2020-12-27	12/27 data upload
+856fc44	2020-12-26	data update 12/26
+0b8c8fe	2020-12-25	data update 12/25
+ecc92a3	2020-12-24	data update 12/24
+f4e058c	2020-12-23	data update 12/23
+9eaa676	2020-12-22	12/22 data-by-day files
+a2eaef7	2020-12-22	Reverting data-by-day files
+df03b18	2020-12-22	Update Readme.md
+6433a7c	2020-12-22	Update Readme.md
+de6e8b5	2020-12-22	Update Readme.md
+a1f740d	2020-12-22	Update README.md
+a0ce491	2020-12-22	data update for 12/22
+e44d697	2020-12-21	Update Readme.md
+9bbdd36	2020-12-21	12/21 data update
+ef1eb6d	2020-12-20	12/20 data update
+e016f9d	2020-12-19	12/19 data update
+b3547e7	2020-12-18	Deleting duplicate file
+7348886	2020-12-18	12/18 data update
+6b49136	2020-12-17	12/17 data update - testing-turnaround.csv
+15f2d39	2020-12-17	12/17 data update
+9ab9616	2020-12-16	12/16 data update
+e460f88	2020-12-15	fixing probable-confirmed death files
+cf80d7b	2020-12-15	12/15 data update
+de84f04	2020-12-15	Update Readme.md
+e5ac2ca	2020-12-14	12/14 data upload
+a0f2319	2020-12-14	Update Readme.md
+fb5a57d	2020-12-13	12/13 data update
+e3bbdaa	2020-12-13	Revert "Data update 12/13"
+c2ea90b	2020-12-13	Data update 12/13
+3333e63	2020-12-12	Data upload 12/12
+bfc53de	2020-12-11	Data upload 12/11
+4250efe	2020-12-11	Add files via upload
+c601b9f	2020-12-10	Update Readme.md
+92863fc	2020-12-10	Update README.md
+46ab169	2020-12-10	Data upload 12/10
+04d10c8	2020-12-09	Deleting duplicate file
+ac997b0	2020-12-09	Deleting duplicate file
+45d598f	2020-12-09	Update Readme.md
+d5b7b87	2020-12-09	Update Readme.md
+b54fa3d	2020-12-09	fixing issue with previous commit 12/9
+84dead2	2020-12-09	 12/09 data update
+1f6b414	2020-12-09	 12/09 data update
+9b40e3c	2020-12-09	 12/09 data update
+2a2295a	2020-12-08	Data upload 12/8
+8d87f2d	2020-12-07	Update Readme.md
+1bf2de0	2020-12-07	Minor revision to tests.csv
+6e30b98	2020-12-07	Dec 7 upload
+b751fe6	2020-12-07	Update Readme.md
+12b5d0c	2020-12-07	Update Readme.md
+c5250e7	2020-12-07	Dec 7 update
+aefdb8a	2020-12-07	Dec 7 update
+4f32ea5	2020-12-07	Update Readme.md
+c5e3055	2020-12-07	Update README.md
+e182423	2020-12-07	Update README.md
+fa17f3c	2020-12-07	Update Readme.md
+b9a7993	2020-12-07	Update Readme.md
+1088eb0	2020-12-07	Update Readme.md
+ada525b	2020-12-07	Update README.md
+e2cfc8f	2020-12-07	Update README.md
+1fa53c4	2020-12-07	Update Readme.md
+8ca0e9d	2020-12-07	Update Readme.md
+5e5e515	2020-12-07	Update Readme.md
+a545a06	2020-12-07	Update README.md
+ae9b669	2020-12-07	Revised timestamp on summary files
+ef4c1c4	2020-12-07	Dec 7 update
+e3f3b1d	2020-12-06	Data upload 12/6
+6d18f8d	2020-12-05	Data upload 12/5
+4fd1bbc	2020-12-04	Data upload 12/4
+41a3504	2020-12-03	Readme edit
+4dc4b77	2020-12-03	Added how-to to Readme.md
+08df4c5	2020-12-03	Data upload 12/3
+ce8ae97	2020-12-02	Update README.md
+6c58263	2020-12-02	Data upload 12/02
+34be7a3	2020-12-02	Update README.md
+e645051	2020-12-01	Data upload 12/1
+e72196d	2020-11-30	Update Readme.md
+9889716	2020-11-30	Data upload 11/30
+4572c83	2020-11-29	Data upload 11/29
+379c54b	2020-11-28	Data upload 11/28
+13c4c61	2020-11-27	Data upload 11/27
+2497bdf	2020-11-26	Data upload 11/26
+c9c974e	2020-11-25	Data upload 11/25
+f51925b	2020-11-24	Data upload 11/24
+b9f7617	2020-11-23	Data upload 11/23
+a0294db	2020-11-22	Data upload 11/22
+328c932	2020-11-21	data upload 11/21
+dc7489f	2020-11-20	11/20 data upload
+b15a78a	2020-11-20	Update README.md
+4459cf4	2020-11-19	11/19 data upload
+9d4dc17	2020-11-18	11/18 data upload
+4b50321	2020-11-17	11/17 data upload
+46baead	2020-11-16	11/16 data upload
+59c8b22	2020-11-15	11/15 data upload
+5871e80	2020-11-14	11/14 data upload
+3592d53	2020-11-13	11/13 data upload
+59b1619	2020-11-13	Update Readme.md
+a4862fe	2020-11-13	Update README.md
+207843e	2020-11-12	11/12 data upload
+540d4f5	2020-11-11	11/11 data upload
+47974ff	2020-11-10	Update Readme.md
+ace49fc	2020-11-10	Update Readme.md
+a48e916	2020-11-10	Update Readme.md
+186986d	2020-11-10	Update Readme.md
+4fbd5d7	2020-11-10	11/10 data upload
+c55f5eb	2020-11-10	Update README.md
+b671e0e	2020-11-09	Updating new file structure with 11/9 data
+a2a7f4c	2020-11-09	Create last7days-by-modzcta.csv
+700a357	2020-11-09	MAJOR UPDATE 11/9
+5fa26a8	2020-11-08	11/8 data upload
+040df3d	2020-11-07	data upload for 11/7
+1674319	2020-11-06	 11/06 data update
+4c42e8e	2020-11-05	 11/05 data update
+bb150d5	2020-11-04	 11/04 data update
+8bf9295	2020-11-03	 11/03 data update
+e6e787c	2020-11-02	Daily data update
+9cffb43	2020-11-01	Daily data update
+260d473	2020-10-31	Daily data update
+7f4867c	2020-10-30	Daily data update
+128daa1	2020-10-29	10/29 data update
+45e0af6	2020-10-28	Update README.md
+d05c158	2020-10-28	Update README.md
+13d3135	2020-10-28	Merge branch 'master' of https://github.com/nychealth/coronavirus-data
+d8c71b4	2020-10-28	Update README.md
+cb0558e	2020-10-28	10/28 data update
+256d811	2020-10-28	10/28 data update
+4b70da9	2020-10-28	Update README.md
+41250f4	2020-10-28	Update README.md
+715d0f3	2020-10-27	10/27 data update
+e408df2	2020-10-26	amending testing data, 10/26
+28f0281	2020-10-26	data upload for 10/26
+c307db5	2020-10-25	data upload for 10/25
+c0d25ca	2020-10-24	10/24 data upload
+ce09ccd	2020-10-23	10/23 data upload
+42779da	2020-10-22	10/22 data upload
+85af947	2020-10-21	10/21 data upload
+d9e1abb	2020-10-20	10/20 data upload
+31539b5	2020-10-19	10/19 data upload
+722d04a	2020-10-19	Update README.md
+9a80f8c	2020-10-19	Update README.md
+b0bc539	2020-10-19	Update README.md
+3d0dbcb	2020-10-18	10/18 data upload
+fc1dd3f	2020-10-17	10/17 data upload
+952ff16	2020-10-16	10/14 data update
+17bf45c	2020-10-15	10/15 data update
+15b0c0d	2020-10-15	10/15 data update
+4a1ac03	2020-10-14	10/14 data update
+5c45ef1	2020-10-14	10/14 data update
+fef6e61	2020-10-13	10/13 data update
+99c3d54	2020-10-12	10/12 data upload
+97fe004	2020-10-12	10/12 data update
+462d159	2020-10-11	Data upload for 10/11
+cb99a5b	2020-10-10	data upload for 10/11
+e03b1d4	2020-10-09	data upload for 10/9
+1f1d79f	2020-10-08	amending antibody data 10/8
+3137069	2020-10-08	data upload for 10/8
+ec50d88	2020-10-07	data upload for 10/7
+40fc9f4	2020-10-06	data upload for 10/6
+c7bdbd3	2020-10-05	data upload for 10/5
+341ad71	2020-10-04	data upload for 10/4
+1f17e81	2020-10-03	10/3 data update
+63fda4e	2020-10-02	10/2 data upload
+2c1cf46	2020-10-02	Update README.md
+697dcb6	2020-10-01	10/1 data upload
+8cf8f10	2020-09-30	9/30 data upload
+0ab879c	2020-09-29	9/29 data upload
+c4b0c75	2020-09-28	9/28 data upload
+032c0d2	2020-09-27	9/27 data upload
+a0c4493	2020-09-26	9/26 data upload
+5a60668	2020-09-25	9/25 data update
+7ce1b84	2020-09-24	9/24 data update
+1d5d6a1	2020-09-23	9/23 data update
+2e545fc	2020-09-22	9/22 data update
+161d7da	2020-09-21	9/21 data update
+6bb2ffe	2020-09-20	9/20 data update
+3e716fa	2020-09-19	data upload for 9/19
+87ee05a	2020-09-18	data upload for 9/18
+f8b6bdc	2020-09-17	data upload for 9/17
+e41828f	2020-09-16	data upload for 9/16
+310656d	2020-09-15	data upload for 9/15
+3410bae	2020-09-14	data upload for 9/14
+d136fb9	2020-09-12	9/12 data upload
+e79fff6	2020-09-11	9/11 data upload
+0eecfe1	2020-09-10	9/10 data upload
+128d24a	2020-09-09	9/9 data upload
+dd51fbe	2020-09-08	9/8 data upload
+7138e69	2020-09-08	9/8 data upload
+eac59e5	2020-09-07	9/7 data upload
+5431780	2020-09-05	9/5 data update
+c7802cf	2020-09-04	9/4 data upload
+f58fbec	2020-09-03	9/3 data upload
+c146989	2020-09-02	9/2 data upload
+7953c97	2020-09-01	9/1 data upload
+bd0a5fe	2020-08-31	8/31 data upload
+6fa5de8	2020-08-30	8/30 data upload
+35ab5bf	2020-08-29	8/29 data upload
+d85359c	2020-08-28	8/28 data update
+2235426	2020-08-27	8/27 data update
+20f5ec3	2020-08-26	Updated syndromic data
+873753a	2020-08-26	8/26 data upload
+13daf0b	2020-08-25	8/25 data update
+855b4e1	2020-08-24	8/24 data upload
+96f12ea	2020-08-23	8/23 data update
+7e3f387	2020-08-22	8/22 data upload
+ce3f3a6	2020-08-21	data upload for 8/21
+647a821	2020-08-20	data upload for 8/20
+5d65451	2020-08-19	data upload 8/19
+02b2578	2020-08-18	8/18 data upload
+f4e1fb9	2020-08-18	Update Readme with recent and testing
+b659cdc	2020-08-18	8/18 data update
+0f4f005	2020-08-17	8/17 data upload
+a5fecbe	2020-08-16	8/16 data upload
+91bd862	2020-08-15	8/15 data upload
+538891f	2020-08-14	8/14 data upload
+5f06bd0	2020-08-13	8/13 data upload
+16224c0	2020-08-12	8/12 data upload
+5158a16	2020-08-11	8/11 data upload
+f4f4335	2020-08-10	8/10 data upload
+66105d1	2020-08-09	8/9 data upload
+7c5b81b	2020-08-08	8/8 data upload
+dcdc459	2020-08-07	8/7 data upload
+cf02bdf	2020-08-06	8/6 data upload
+b6a811e	2020-08-05	8/5 data upload
+2f12509	2020-08-04	8/4 data upload
+773ffb0	2020-08-03	8/3 data upload
+a7315f6	2020-08-02	8/2 data upload
+39bb0fe	2020-08-01	8/1 fixed typo in summary.csv file
+6a26616	2020-08-01	8/1 data update
+f10021a	2020-07-31	7/31 data update
+2bed498	2020-07-30	7/30 data update
+18b56f1	2020-07-29	7/29 data upload
+6daff42	2020-07-28	7/28 data upload
+ec4a60e	2020-07-27	7/27 data update
+f7f16ad	2020-07-26	7/26 data upload
+fa0817c	2020-07-25	7/25 data upload
+1278bcd	2020-07-24	Update README.md
+c2539dc	2020-07-24	7/24 data upload
+f3f5d31	2020-07-23	Update README.md
+4270c10	2020-07-23	7/23 data upload
+6e4171f	2020-07-22	7/22 data upload
+ef6900b	2020-07-21	7/21 data upload
+4613dc2	2020-07-20	7/20 data upload
+b1a629d	2020-07-19	7/19 data update
+85349ab	2020-07-18	7/18 data upload
+732da38	2020-07-17	7/17 data upload
+884471b	2020-07-16	7/16 data upload
+d9bee1e	2020-07-15	7/15 data upload
+d3060c1	2020-07-14	7/14 data upload
+f9726f4	2020-07-13	7/13 data upload
+4f81f2d	2020-07-12	7/12 data upload
+7ecf2cd	2020-07-11	7/11 data upload
+70cb39a	2020-07-10	7/10 data upload
+ce5be72	2020-07-09	7/9 data upload
+17e7611	2020-07-08	7/8 data upload
+7132770	2020-07-07	7/7 data upload
+b6e6a04	2020-07-07	Update Readme.md
+eda5f92	2020-07-06	7/6 data upload
+2232fd9	2020-07-05	7/5 data upload
+72af706	2020-07-04	7/4 data upload
+97b6723	2020-07-03	7/3 data upload
+144c474	2020-07-02	7/2 data update
+41f823d	2020-07-01	7/1 data update
+fc6ca2e	2020-06-30	Update summary.csv
+695e5fb	2020-06-30	6/30 data update
+f78cda1	2020-06-28	6/28 data upload
+5d87847	2020-06-27	6/27 data upload
+7e1c437	2020-06-26	6/26 data upload
+296486d	2020-06-25	6/25 data upload
+be46b4e	2020-06-24	Add files via upload
+cf508e8	2020-06-23	6/23 data upload
+cc87cd4	2020-06-22	6/22 data upload
+deac492	2020-06-21	6/21 data update
+1e719a7	2020-06-20	Data upload for 6/20
+7e6195e	2020-06-19	6/19 data upload
+ef7b0a5	2020-06-18	6/18 data upload
+9139cf2	2020-06-17	6/17 data upload
+a86f0bf	2020-06-16	6/16 data upload
+8ebc7a3	2020-06-15	6/15 data upload
+9913aec	2020-06-14	6/14 data upload
+9b7a380	2020-06-13	6/13 data upload
+b92f6e5	2020-06-12	6/12 data upload
+b6ae2b9	2020-06-11	6/11 data upload
+b820b68	2020-06-10	6/10 data upload
+a9b750d	2020-06-09	Update README.md
+5ecc5d1	2020-06-09	6/9 data upload
+86af7cb	2020-06-09	Update README.md
+3f21405	2020-06-08	6/8 data upload
+6328e0b	2020-06-07	6/7 data upload
+9e0c1fe	2020-06-06	6/6 data upload
+582977c	2020-06-05	6/5 data upload
+f094fb2	2020-06-04	6/4 data upload
+eb3b8e9	2020-06-03	6/3 data upload
+53f5d79	2020-06-02	6/2 data update
+c1bb9a8	2020-06-01	Update README.md
+62444c1	2020-06-01	06/01 data update
+9b5cd4d	2020-05-31	Upload on 05/31
+3e9a27c	2020-05-30	Upload on 05/30
+8636c55	2020-05-29	Upload on 05/29
+65efb1f	2020-05-28	5/28 data update
+498a068	2020-05-27	5/27 data update
+d52fdfe	2020-05-26	5/26 data update
+ea689d3	2020-05-25	5/25 data upload
+ede6f90	2020-05-25	Delete tests-by-zcta.csv
+beb0062	2020-05-25	Add files via upload
+d812cc2	2020-05-25	5/25 data upload
+3b8e177	2020-05-25	Delete tests-by-zcta.xlsx
+4aca1eb	2020-05-25	tests by zcta csv upload 5/25
+f19c0bc	2020-05-25	5/25 data upload
+79d57e6	2020-05-24	5/24 data update
+9332798	2020-05-24	5/24 data update
+8d88b2c	2020-05-23	Data upload 5/23
+f6921f4	2020-05-22	Merge branch 'master' of https://github.com/nychealth/coronavirus-data
+78466e7	2020-05-22	Added link to Open Data
+3cbb3b7	2020-05-22	5/22 data update
+c5cb741	2020-05-21	5/21 data update
+6948736	2020-05-21	corrected time stamp
+d3a1873	2020-05-21	5/21 data update
+f9dbf48	2020-05-20	Corrected timestamp on summary.csv
+0c4a03c	2020-05-20	5/20 data upload
+e57a1f5	2020-05-19	Fix problem with probable-confirmed-dod.csv
+a68f42f	2020-05-19	5/19 data update
+80df5dc	2020-05-19	Updated tests-by-zcta as of 5/18
+c3c4d89	2020-05-18	Restoring probable-confirmed-dod.csv
+dc8d2c0	2020-05-18	Delete probable-confirmed-dod.csv
+50e60ee	2020-05-18	5/18 data update
+67fdc83	2020-05-17	5/17 data upload
+d9d894a	2020-05-17	5/17 data upload
+25021ca	2020-05-16	5/16 data upload
+ebe9ba7	2020-05-15	5/15 data update
+ac5cfc5	2020-05-14	5/14 daily update
+82ea643	2020-05-13	5/13 data update
+c858923	2020-05-12	5/12 data update - summary timestamp
+6b501e5	2020-05-12	5/12 data update
+5ef81d9	2020-05-11	5/11 data update
+257399d	2020-05-10	5/10 data update
+00dc16b	2020-05-09	Update probable-confirmed-dod.csv
+16f9265	2020-05-09	5/9 data update
+2dad8ad	2020-05-08	5/8 data update
+ac2abb7	2020-05-07	Added geographic resources
+6d7c4a9	2020-05-07	5/7 data update
+d1df026	2020-05-06	5/6 data update
+dbf813f	2020-05-05	5/5 data update
+e9647e0	2020-05-04	5/4 data update
+26d8d4c	2020-05-03	5/3 data update
+946537b	2020-05-02	5/2 data update
+9e26adc	2020-05-01	5/1 data update
+cdc5866	2020-04-30	4/30 data update
+c68db06	2020-04-29	4/29 data update
+81fcf12	2020-04-28	4/28 data update
+3ec3fa9	2020-04-27	4/27 data update
+0348518	2020-04-26	Update summary.csv
+da609d8	2020-04-26	4/26 data update
+d3cbc0b	2020-04-25	Update README.md
+4bc5368	2020-04-25	4/25 data update
+8f4cd59	2020-04-24	4/24 data update
+93c29d8	2020-04-23	4/23 data update
+9147df0	2020-04-22	Update with 4/22 data
+bbbb0f3	2020-04-21	Updated data 4/21
+0a74f08	2020-04-20	Updated for 4/20
+498c34f	2020-04-19	Updated 4/19
+aae7a6e	2020-04-18	Added probable-confirmed-dod.csv
+d3a8994	2020-04-18	Updated 4/18
+2191625	2020-04-17	Update 4/17
+b08d474	2020-04-16	Update tests-by-zcta 4/16
+86e9f03	2020-04-16	Updated data 4/16
+4f72feb	2020-04-16	Update case-hosp-death.csv
+0edd186	2020-04-15	Update summary.csv
+6c9e995	2020-04-15	Update tests-by-zcta for 4/15
+165e694	2020-04-15	Update with data for 4/15
+b2104e2	2020-04-14	Update tests-by-zcta for 4/14
+8e4627d	2020-04-14	Updated data as of 4/14
+1dc35df	2020-04-13	Update tests-by-zcta for 4/13
+aa9a8fa	2020-04-13	Updating data for 4/13
+d34e6aa	2020-04-12	Updated with data as of 4/12
+8542fbf	2020-04-11	Updated with 4/11 data
+3fdd59a	2020-04-10	Update with data from 4/10
+e1f1d9a	2020-04-09	Updated data for 4/9
+e19db28	2020-04-08	Updated all files with 4/8 data
+5549596	2020-04-07	Updated with 4/7 data
+70904c3	2020-04-07	Updated with 4/7 data
+8cb25d6	2020-04-06	Added 4/6 data
+98a7fd1	2020-04-05	Updated with 4/5 data
+0ae531d	2020-04-04	Updated with 4/4 data
+a65700c	2020-04-03	Delete testing.csv
+0074809	2020-04-03	Update tests-by-zcta
+24fab60	2020-04-03	Updated with 4/3 data
+10efdd3	2020-04-03	Delete .DS_Store
+8562fab	2020-04-02	Added data for 4/2 update
+dd2010c	2020-04-01	Update with 4/1 data
+0fbbd5c	2020-04-01	Update README.md
+097cbd7	2020-04-01	Added tests-by-zcta.csv
+6968ca6	2020-03-31	Added testing data
+6f51a1f	2020-03-31	Updated with 3/31 data
+8460dd7	2020-03-31	Update with 3/30 data
+3d7bdf5	2020-03-27	Updated summary.csv
+6c3565c	2020-03-27	Update with 3/27 data
+a3dded4	2020-03-27	Update summary.csv
+882febe	2020-03-27	Updated boro
+7521ac1	2020-03-27	Update README.md
+56304a3	2020-03-27	Delete boro-rates.csv
+22b0814	2020-03-27	Update summary.csv
+70ca082	2020-03-27	Update with 3.26 data
+edba00f	2020-03-27	Create README.md
+d8df318	2020-03-27	Update summary.csv
+603c503	2020-03-27	Update summary.csv
+6c7da08	2020-03-27	Update summary.csv
+6e261a6	2020-03-26	Update hosp est
+20c11ca	2020-03-26	Update summary.csv
+2d90af0	2020-03-26	Update summary.csv
+0579b5b	2020-03-26	Updated summary table
+3d1a851	2020-03-26	Update by-sex csv
+f650345	2020-03-26	Create by-sex.xlsx
+0b2ccbc	2020-03-26	Add files via upload
+b4c8886	2020-03-26	Add files via upload
+bd5f0dc	2020-03-26	Update boro-rates.csv
+5aab389	2020-03-26	Add files via upload
+db6cdaf	2020-03-26	Add files via upload

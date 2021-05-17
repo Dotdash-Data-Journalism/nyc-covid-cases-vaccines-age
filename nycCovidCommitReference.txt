@@ -1,0 +1,12 @@
+Covid cases by age available from: 
+https://github.com/nychealth/coronavirus-data
+
+First git command to get commits from NYC Covid Github repo
+git log --pretty=oneline | grep -i 'data' | grep -iP '\d{1,2}/\d{1,2}' > ../nycCovidCommits.txt
+
+Second git command to get commits from NYC Covid Github repo (this includes dates)
+git log --pretty=format:"%h%x09%ad%x09%s" --date=short > ../nycCovidProjection/nycCovidCommits2.txt
+
+Vaccine by age data available from:
+https://github.com/bertrandmartel/covid19-nyc-vaccine-tracker
+
